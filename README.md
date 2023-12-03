@@ -5,4 +5,3 @@ deneme
 a
 asaa
 deneme
-deneme
