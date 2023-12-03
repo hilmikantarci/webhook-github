@@ -2,6 +2,3 @@
 deneme
 
 deneme
-a
-asaa
-deneme
